@@ -1,6 +1,6 @@
 # spog-lab
 
-## Lab Director: Prof. Margaret Cychosz
+## Lab Director: Prof. Meg Cychosz
 ### Repo Contributors: Arjun Pawar, Madurya Suresh
 
 ## Projects:
