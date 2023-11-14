@@ -1,7 +1,7 @@
 # spog-lab
 
 ## Prof. Margaret Cychosz
-## Contributors: Arjun Pawar, Madurya Suresh
+# Contributors: Arjun Pawar, Madurya Suresh
 
 ## Projects:
-# Child-Directed Speech Classifier
+Child-Directed Speech Classifier
