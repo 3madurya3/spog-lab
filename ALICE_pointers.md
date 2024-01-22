@@ -13,4 +13,4 @@ In addition, utterance-level outputs for detected adult speech can be found from
 
 NOTE: We need to make a few tweaks to a few scripts so that CHI and KCHI are also included (the original scripts only diarize MAL & FEM)
 
-These can be found in the repo
+These can be found in the folder 'changes_to_ALICE'
